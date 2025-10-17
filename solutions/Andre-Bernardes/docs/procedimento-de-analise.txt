@@ -14,4 +14,11 @@ Meu procedimento será na seguinte ordem:
 4 - Desenvolverei scripts de resolução do problema proposto
 5 - Executarei novamente as consultas com gerando novamente o plano de execução.
 6 - Avaliarei novamente todos os andamentos dentro do plano e validarei novamente tempo de resposta, IO, quantidade de leituras e tipo de leituras.
+
 7 - Coletarei os dados finais e concluirei a documentação.
+
+8 - Após todo a análise, iremos discutir quando implementaremos as alterações. Se é por GMUD ou por janela de execução especifica.
+
+*. Como eu não havia compreendido o modo de subir os artefatos antes aqui no Github, eu indico que o tempo de execução da tarefa foi:
+Iniciei a analise na Quinta feira, 16/10/2025 às 19:32, evidenciado no linkedin da Berna Sartori
+e finalizei a analise às 23:44 da Quinta feira, 16/10/2025, também evidenciado no LinkedIn da Berna.
