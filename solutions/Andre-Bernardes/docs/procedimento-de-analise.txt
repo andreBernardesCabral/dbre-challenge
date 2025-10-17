@@ -1,0 +1,17 @@
+Procedimento:
+
+Irei analisar as consultas e desenvolver relatórios laudando as minhas evoluções.
+
+Na terça feira no periodo noturno baixei o Docker Desktop e comecei a instalar o ambiente.
+Como não tinha muito conhecimento sobre o app, demorei mais que o necessário para deixar o ambiente todo online.
+
+Hoje, quinta feira irei começar a analisar o ambiente e resolver os problemas.
+
+Meu procedimento será na seguinte ordem:
+1 - Executarei as consultas gerando o plano de execução.
+2 - Avaliarei todos os andamentos dentro do plano e validarei tempo de resposta, IO, quantidade de leituras e tipo de leituras.
+3 - Coletarei os dados iniciais e documentarei.
+4 - Desenvolverei scripts de resolução do problema proposto
+5 - Executarei novamente as consultas com gerando novamente o plano de execução.
+6 - Avaliarei novamente todos os andamentos dentro do plano e validarei novamente tempo de resposta, IO, quantidade de leituras e tipo de leituras.
+7 - Coletarei os dados finais e concluirei a documentação.
